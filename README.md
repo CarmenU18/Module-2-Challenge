@@ -49,14 +49,14 @@ The best performing stocks were RUN and ENPH with positive performance in both y
 
 ![img](https://github.com/CarmenU18/Module-2-Challenge/blob/main/Resources/VBA_Challenge_2017.PNG)
 
-![img](https://github.com/CarmenU18/Module-2-Challenge/blob/main/Resources/2018.PNG)
+![img](https://github.com/CarmenU18/Module-2-Challenge/blob/main/Resources/VBA_Challenge_2018.PNG)
 
 The best performing stocks were RUN and ENPH with positive performance in both years.
 Despite the negative performance in 2018, we have issuers that we would focus on and follow up on on a timely basis in order to be able to trim positions while still maintaining positive results: SEDG, VSLR, FSLR and
 
 ![img](https://github.com/CarmenU18/Module-2-Challenge/blob/main/Resources/2017.PNG)
 
-![img](https://github.com/CarmenU18/Module-2-Challenge/blob/main/Resources/VBA_Challenge_2018.PNG)
+![img](https://github.com/CarmenU18/Module-2-Challenge/blob/main/Resources/2018.PNG)
 
 The stocks in which I would take the decision to close position and not continue adding losses to the portfolio would be SPWR and TERP.
 
